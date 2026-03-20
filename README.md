@@ -33,7 +33,7 @@ in solving industry problems.
 
 👉 **Click on any internship below to explore tasks, solutions, and insights.**
 
-- 🧠 [Deloitte Virtual Internship](./Deloitte/) *(Forage)*  
+- 🧠 [Deloitte Virtual Internship](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte) 
 - 🏢 More internships will be added soon  
 
 ---
