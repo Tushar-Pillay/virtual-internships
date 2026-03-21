@@ -33,7 +33,7 @@ in solving industry problems.
 
 👉 **Click on any internship below to explore tasks, solutions, and insights.**
 
-- 🧠 [Deloitte Data Analytics Internship](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte) 
+- 🧠 [Deloitte Data Analytics Internship](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte%20Data%20Analytics) 
 - 🏢 More internships will be added soon  
 
 ---
