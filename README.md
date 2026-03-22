@@ -1,9 +1,9 @@
-# 💼 Virtual Internships Portfolio
+# 💼 Job Simulation Portfolio
 
-This repository showcases my participation in **virtual internship programs**
+This repository showcases my participation in **Job Simulation programs**
 across domains such as **data analytics, consulting, business strategy, and technology**.
 
-These internships are completed via platforms like **Forage**, which provide
+These work are completed via platforms like **Forage**, which provide
 real-world company simulations designed by leading global organizations.
 
 ---
