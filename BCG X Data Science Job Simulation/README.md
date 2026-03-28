@@ -4,7 +4,7 @@
 ![BCG X Data Science Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20X%20Data%20Science%20Job%20Simulation/Certificate.png)
 
 
-🔗 [View Completion Certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_JFEytdwinvrneF5hC_1774183398729_completion_certificate.pdf)
+🔗 [View Completion Certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_JFEytdwinvrneF5hC_1774669204816_completion_certificate.pdf)
 
 
 ## 📌 Project Overview
