@@ -10,6 +10,8 @@
   <a href="certificate.pdf">View Certificate PDF</a>
 </p>
 
+🔗 [Verify Certificate on Forage](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/ntTvo6ru6Tq3A2JPq_SKZxezskWgmFjRvj9_JFEytdwinvrneF5hC_1778450686890_completion_certificate.pdf)
+
 ---
 
 ## 📌 Overview
@@ -34,93 +36,74 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 1 – Market Research & Industry Analysis
-📄 [View Task 1](./Task1.pdf)
+📄 [View Task 1](./Strategy_Consulting_Task_1_Resources.pdf)
 
 ### Key Activities
 - Analyzed evolving consumer purchasing behavior
 - Identified trends in affordability and financing adoption
 - Evaluated industry financing strategies and market positioning
 
-### Key Insight
-Consumers increasingly prioritize affordability, flexible payment options, and access to premium technology.
-
 ---
 
-## Task 2 – Installment Financing Viability Assessment
-📄 [View Task 2](./Task2.pdf)
-
-### Key Activities
-- Conducted external research on financing models
-- Evaluated financial and operational implications
-- Developed preliminary strategic recommendations
-
-### Key Insight
-Installment financing improves accessibility and customer retention while introducing manageable operational risks.
-
----
-
-## Task 3 – Financial Benchmarking Analysis
-📄 [View Task 3](./Task3.pdf)
+## Task 2 – Financial Benchmarking Analysis
+📄 [View Task 2](./Strategy_Consulting_Task_2_Financial_Analysis_.pdf)
 
 ### Key Activities
 - Compared competitor financial performance
 - Assessed revenue growth, profitability, and cash flow impact
 - Evaluated short-term and long-term financial outcomes
 
-### Key Insight
-Competitors with installment financing achieved stronger long-term revenue growth and improved customer retention.
+---
+
+## Task 3 – Company Financial Statements & Modeling
+📄 [Income Statement PDF](./Strategy%20Consulting_Company%20Financials%20income%20statement.pdf)
+
+📄 [Excel Financial Model](./Strategy%20Consulting_Company%20Financials%20excel%20file.xlsx)
+
+### Key Activities
+- Reviewed competitor income statements
+- Evaluated financing-related financial impacts
+- Conducted financial benchmarking analysis
 
 ---
 
 ## Task 4 – Customer Survey Design
-📄 [View Task 4](./Task4.pdf)
+📄 [Customer Financing Survey](./BeyondTech_Customer_Financing_Survey.pdf)
 
 ### Key Activities
-- Designed a 15-question customer financing survey
-- Evaluated financing preferences and customer trade-offs
-- Structured customer segmentation analysis
-
-### Key Insight
-Customers value low upfront costs, flexible repayment structures, and transparent financing terms.
+- Designed a customer financing preference survey
+- Evaluated financing trade-offs and customer priorities
+- Structured segmentation-focused customer research
 
 ---
 
-## Task 5 – Customer Data & Insight Analysis
-📄 [View Task 5](./Task5.pdf)
+## Task 5 – Customer Insights & Survey Analysis
+📄 [Survey Data Analysis](./Strategy_Consulting_Task_4_Survey%20Data%20(1).pdf)
 
 ### Key Activities
 - Analyzed customer survey responses
 - Identified financing motivators and concerns
 - Evaluated demographic and income-based adoption trends
 
-### Key Insight
-Younger and middle-income customer segments showed the strongest interest in installment financing models.
-
 ---
 
 ## Task 6 – Stakeholder Analysis
-📄 [View Task 6](./Task6.pdf)
+📄 [Stakeholder Analysis](./Strategy_Consulting_Task_5_Stakeholder%20Map.pdf)
 
 ### Key Activities
 - Evaluated executive stakeholder perspectives
 - Identified organizational risks and implementation concerns
 - Proposed stakeholder alignment strategies
 
-### Key Insight
-Successful implementation requires balancing financial risk management with customer experience and operational scalability.
-
 ---
 
-## Task 7 – Executive Recommendation & Strategic Roadmap
-📄 [View Task 7](./Task7.pdf)
+## Task 7 – Executive Summary & Strategic Recommendation
+📄 [Summary of Insights](./Strategy_Consulting_Task_6_Summary%20of%20Insights.pdf)
 
 ### Key Activities
 - Developed final consulting recommendation
 - Proposed phased implementation roadmap
 - Identified risks and mitigation strategies
-
-### Key Insight
-A phased installment financing strategy supported by financing partnerships can improve customer retention, accessibility, and long-term profitability.
 
 ---
 
@@ -152,23 +135,7 @@ BeyondTech should implement a phased installment financing strategy focused on i
 
 ---
 
-# 🔗 Reference Links
 
-## Boston Consulting Group (BCG)
-https://www.bcg.com
-
-## Forage Program
-https://www.theforage.com/virtual-internships/prototype/BqF6gmrmLunCkdqKM/Strategy-Consulting-Virtual-Experience-Program
-
----
-
-# 👨‍💻 Author
-## Tushar Pillay
-BSc in Data Science – IIT Madras
-
-### Connect With Me
-- LinkedIn: https://www.linkedin.com/
-- GitHub: https://github.com/
 
 ---
 ⭐ If you found this project interesting, feel free to star the repository.
