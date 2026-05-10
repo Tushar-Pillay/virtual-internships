@@ -32,7 +32,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 1 – Market Research & Industry Analysis
-📄 [View Task 1](./Strategy_Consulting_Task_1_Resources.pdf)
+📄 [View Task 1](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Task%201_Resources.pdf)
 
 ### Key Activities
 - Analyzed evolving consumer purchasing behavior
@@ -42,7 +42,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 2 – Financial Benchmarking Analysis
-📄 [View Task 2](./Strategy_Consulting_Task_2_Financial_Analysis_.pdf)
+📄 [View Task 2](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Task%202_Financial%20Analysis_.pdf)
 
 ### Key Activities
 - Compared competitor financial performance
@@ -52,9 +52,9 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 3 – Company Financial Statements & Modeling
-📄 [Income Statement PDF](./Strategy%20Consulting_Company%20Financials%20income%20statement.pdf)
+📄 [Income Statement PDF](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Company%20Financials%20income%20statement.pdf)
 
-📄 [Excel Financial Model](./Strategy%20Consulting_Company%20Financials%20excel%20file.xlsx)
+📄 [Excel Financial Model](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Company%20Financials%20excel%20file.xlsx)
 
 ### Key Activities
 - Reviewed competitor income statements
@@ -64,7 +64,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 4 – Customer Survey Design
-📄 [Customer Financing Survey](./BeyondTech_Customer_Financing_Survey.pdf)
+📄 [Customer Financing Survey](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/BeyondTech_Customer_Financing_Survey.pdf)
 
 ### Key Activities
 - Designed a customer financing preference survey
@@ -74,7 +74,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 5 – Customer Insights & Survey Analysis
-📄 [Survey Data Analysis](./Strategy_Consulting_Task_4_Survey%20Data%20(1).pdf)
+📄 [Survey Data Analysis](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Task%204_Survey%20Data%20(1).pdf)
 
 ### Key Activities
 - Analyzed customer survey responses
@@ -84,7 +84,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 6 – Stakeholder Analysis
-📄 [Stakeholder Analysis](./Strategy_Consulting_Task_5_Stakeholder%20Map.pdf)
+📄 [Stakeholder Analysis](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Task%205_Stakeholder%20Map.pdf)
 
 ### Key Activities
 - Evaluated executive stakeholder perspectives
@@ -94,7 +94,7 @@ The project simulated a real-world consulting engagement involving market resear
 ---
 
 ## Task 7 – Executive Summary & Strategic Recommendation
-📄 [Summary of Insights](./Strategy_Consulting_Task_6_Summary%20of%20Insights.pdf)
+📄 [Summary of Insights](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/Strategy%20Consulting_Task%206_Summary%20of%20Insights.pdf)
 
 ### Key Activities
 - Developed final consulting recommendation
@@ -133,5 +133,3 @@ BeyondTech should implement a phased installment financing strategy focused on i
 
 
 
----
-⭐ If you found this project interesting, feel free to star the repository.
