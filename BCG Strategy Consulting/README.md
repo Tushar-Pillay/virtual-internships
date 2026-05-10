@@ -6,10 +6,6 @@
   <img src="certificate.png" alt="BCG Certificate" width="750"/>
 </p>
 
-<p align="center">
-  <a href="certificate.pdf">View Certificate PDF</a>
-</p>
-
 🔗 [Verify Certificate on Forage](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/ntTvo6ru6Tq3A2JPq_SKZxezskWgmFjRvj9_JFEytdwinvrneF5hC_1778450686890_completion_certificate.pdf)
 
 ---
